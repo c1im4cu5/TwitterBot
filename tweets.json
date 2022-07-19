@@ -1,0 +1,107 @@
+{
+  "marketing": {
+                "1": "Purchase your archetype @ nftrade.com/assets/avalanche/0x9a011056ba0e39e312b00d84c057a8ffd2bfe21d",
+                "2": "Check out Parcae.io/nftSearch for details!",
+                "3": "Owners of NFT collection ParcaeArchetypes will receive airdrops of any builds produced from parcae.io",
+                "4": "Owners of NFT collection ParcaeArchetypes can expect airdrops of any builds produced from parcae.io",
+                "5": "ParcaeArchetypes! An #AI generated #NFT collection!",
+                "6": "ParcaeArchetypes - An NFT collection linked with parcae.io"
+              },
+  "marketing_tags": {
+                "1": "#NFT $AVAX #Avalanche #NFTrade #Finance #ERC721 #Collect #airdrops",
+                "2": "$AVAX #Avalanche #NFT #Collect #Rank #Building #Own #airdrops",
+                "3": "$AVAX #Avalanche #NFT #Collect #Rank #Vyper #Building #Burn"
+              },
+  "predict_status": {
+                "1": "Ten days of #crypto price prediction close values for ",
+                "2": " based on linear regression",
+                "3": "#DataScience #Data #Math #MachineLearning #DataAnalysis $BTC $ETH",
+                "4": "#DataScience #CrptoAnalysis #Python #DataFrame $BTC $ETH"
+              },
+  "dataAnalysis": {
+                "1": "Through data analysis we gain the insight to make informed decisions",
+                "2": "Accelerate Change and Prepare for the next Disruption",
+                "3": "Surrounded by data, but starved of insight?",
+                "4": "Planning and analysis lead to insight and forecasting",
+                "5": "Systematically applying statistical and logical techniques to describe and illustrate, condense and recap, and evaluate data",
+                "6": "Drawing unbiased inference from data",
+                "7": "#DataScience #Data #Math #MachineLearning #DataAnalysis",
+                "8": "#DataScience #CrptoAnalysis #Python #DataFrame"
+              },
+
+  "intraday_trading": {
+                "1": "Another graph for the ",
+                "2": " intraday traders!",
+                "3": "What insight can you draw from the information?",
+                "4": "Do you see a bounce coming?",
+                "5": "Gann fan can dispel emotion. Trade on data!",
+                "6": "Use my towering intellect to trade informatively!",
+                "7": "When you take emotion out of the equation, you trade on logic!",
+                "8": "Have we hit a ceiling?",
+                "9": "Chart data is kept in a Pandas dataframe! We also use it to trade on #Coinbase and #Demex",
+                "10": "#Strategy #Math #Trading #Finance #Learn #PayAttention ",
+                "11": "#Strategy #Math #Trading #Finance #Pandas #Dataframe $BTC $ETH",
+                "12": "#Consulting #Planning and #Analysis @ Parcae.io"
+              },
+
+  "markets":[{
+                "0": "BTC-USD",
+                "value": "$BTC",
+                "name": "#Bitcoin "
+            },
+            {
+                "1": "ETH-USD",
+                "value": "$ETH",
+                "name": "#Ethereum "
+            },
+            {
+                "2": "ADA-USD",
+                "value": "$ADA",
+                "name": "#Cardano "
+            },
+            {
+                "3": "DOGE-USD",
+                "value": "$DOGE",
+                "name": "#Dogecoin "
+            },
+            {
+                "4": "SHIB-USD",
+                "value": "$SHIB",
+                "name": "#ShinaInu "
+            },
+            {
+                "5": "AVAX-USD",
+                "value": "$AVAX",
+                "name": "#Avalanche "
+            },
+            {
+                "6": "XTZ-USD",
+                "value": "$XTZ",
+                "name": "#Tezos "
+            },
+            {
+                "7": "DOT-USD",
+                "value": "$DOT",
+                "name": "#Polkadot "
+            },
+            {
+                "8": "SOL-USD",
+                "value": "$SOL",
+                "name": "#Solana "
+            },
+            {
+                "9": "ICP-USD",
+                "value": "$ICP",
+                "name": "#InternetComputer "
+            },
+            {
+                "10": "LTC-USD",
+                "value": "$LTC",
+                "name": "#Litecoin "
+            },
+            {
+                "11": "BCH-USD",
+                "value": "$BCH",
+                "name": "#BitcoinCash "
+            }]
+}
