@@ -15,7 +15,7 @@ from predict import combine_predictions
 
 load_dotenv()
 
-#Get Dictionary Path
+#Get Directory Path
 PATH = sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 #Load Environmental Variables
